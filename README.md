@@ -4,7 +4,7 @@
 Enc 2 displays the selected track.
 
 Use the lowest row on your grid to toggle alt mode. 
-_(left: toggle all encoders, right: toggle each encoder indivudually)_
+_(left: toggle all encoders, right: toggle each encoder individually)_
 ## Enc 1: 
 - scrub audio buffer
 - start/stop audio (alt mode)
